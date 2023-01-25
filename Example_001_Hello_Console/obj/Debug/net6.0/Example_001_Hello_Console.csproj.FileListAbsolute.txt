@@ -1,0 +1,15 @@
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\bin\Debug\net6.0\Example_001_Hello_Console.exe
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\bin\Debug\net6.0\Example_001_Hello_Console.deps.json
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\bin\Debug\net6.0\Example_001_Hello_Console.runtimeconfig.json
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\bin\Debug\net6.0\Example_001_Hello_Console.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\bin\Debug\net6.0\Example_001_Hello_Console.pdb
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.csproj.AssemblyReference.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.AssemblyInfoInputs.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.AssemblyInfo.cs
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.csproj.CoreCompileInputs.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\refint\Example_001_Hello_Console.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.pdb
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\Example_001_Hello_Console.genruntimeconfig.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\C#\Examples\Example_001_Hello_Console\obj\Debug\net6.0\ref\Example_001_Hello_Console.dll
