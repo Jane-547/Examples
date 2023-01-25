@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj": {}
+    "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Examples_All\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj": {
+    "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Examples_All\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj",
-        "projectName": "Example_001_Hello_Console",
-        "projectPath": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj",
+        "projectUniqueName": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Examples_All\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectName": "Example001_HelloConsole",
+        "projectPath": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Examples_All\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\obj\\",
+        "outputPath": "c:\\Рабочая папка\\Женя\\Личное\\1. Учеба\\GeekBrains\\C#\\Examples\\Examples_All\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
